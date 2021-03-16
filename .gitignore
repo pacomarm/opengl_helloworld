@@ -1,1 +1,8 @@
 .vs/
+/OpenC/Debug/
+OpenC.vcxproj
+OpenC.vcxproj.filters
+OpenC.vcxproj.user
+OpenC/Dependencies/
+/OpenC.sln
+/Debug/
